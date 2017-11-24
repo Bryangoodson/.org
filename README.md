@@ -1,1 +1,1 @@
-# vertcoin.org
+# .org
