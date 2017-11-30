@@ -226,10 +226,7 @@
 }
 .icon-inverse {
   color: #ffffff;
-}
 
-.icon-discord:before{
-    content: "\111"
 }
 .icon-type:before {
 	content: "\e600";
